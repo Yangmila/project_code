@@ -1,0 +1,9 @@
+game\GameAPI.class
+game\MatcherResponse.class
+game\RoomManager.class
+game\OnlineUserManager.class
+game\PutChessResponse.class
+game\Matcher.class
+game\Room.class
+game\Matcher$1.class
+game\Request.class
